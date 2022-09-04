@@ -79,6 +79,7 @@
 		<button type="button" class="btn btn-danger" data-toggle="modal" data-target="#modal-primary">
 			+ Tambah Barang
 		</button>
+		<br>
 		<!-- <a type="button" class="btn btn-success" href="kategori.php">Kelola Kategori</a> -->
 		
 		
